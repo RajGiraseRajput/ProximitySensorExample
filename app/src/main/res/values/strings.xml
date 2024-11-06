@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProximitySensorExample</string>
+    <string name="sensor_values">Sensor Values</string>
+</resources>
